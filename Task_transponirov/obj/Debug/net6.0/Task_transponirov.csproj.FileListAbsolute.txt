@@ -1,0 +1,15 @@
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\obj\Debug\net6.0\Task_transponirov.csproj.AssemblyReference.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\obj\Debug\net6.0\Task_transponirov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\obj\Debug\net6.0\Task_transponirov.AssemblyInfoInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\obj\Debug\net6.0\Task_transponirov.AssemblyInfo.cs
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\obj\Debug\net6.0\Task_transponirov.csproj.CoreCompileInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\bin\Debug\net6.0\Task_transponirov.exe
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\bin\Debug\net6.0\Task_transponirov.deps.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\bin\Debug\net6.0\Task_transponirov.runtimeconfig.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\bin\Debug\net6.0\Task_transponirov.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\bin\Debug\net6.0\Task_transponirov.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\obj\Debug\net6.0\Task_transponirov.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\obj\Debug\net6.0\refint\Task_transponirov.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\obj\Debug\net6.0\Task_transponirov.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\obj\Debug\net6.0\Task_transponirov.genruntimeconfig.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWork_7\Task_transponirov\obj\Debug\net6.0\ref\Task_transponirov.dll
